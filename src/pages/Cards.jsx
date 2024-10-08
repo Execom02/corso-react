@@ -1,5 +1,5 @@
 import Navbar from "../components/navbar/Navbar";
-import CardItem from "../components/cardItem/CardItem";
+import CardItem from "../components/carditem/CardItem";
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 
